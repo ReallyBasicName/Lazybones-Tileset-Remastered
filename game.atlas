@@ -172,14 +172,14 @@ TileSets/Lazybones Remastered/Tiles/Krakatoa
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Krakatoa1
+TileSets/Lazybones Remastered/Tiles/Krakatoa2
   rotate: false
   xy: 508, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Krakatoa2
+TileSets/Lazybones Remastered/Tiles/Krakatoa3
   rotate: false
   xy: 580, 154
   size: 64, 67
@@ -249,14 +249,14 @@ TileSets/Lazybones Remastered/Tiles/Old Faithful
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Old Faithful1
+TileSets/Lazybones Remastered/Tiles/Old Faithful2
   rotate: false
   xy: 868, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Old Faithful2
+TileSets/Lazybones Remastered/Tiles/Old Faithful3
   rotate: false
   xy: 868, 79
   size: 64, 67

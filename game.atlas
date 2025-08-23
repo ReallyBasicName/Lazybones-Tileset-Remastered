@@ -1,124 +1,194 @@
 
 game.png
-size: 1024, 256
+size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Lazybones Remastered/Tiles/Atoll
+TileSets/Lazybones Remastered/Tiles/Academy
   rotate: false
   xy: 4, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Barringer Crater
+TileSets/Lazybones Remastered/Tiles/Atoll
   rotate: false
-  xy: 4, 90
-  size: 64, 56
-  orig: 64, 56
+  xy: 4, 79
+  size: 64, 67
+  orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Cerro de Potosi
+TileSets/Lazybones Remastered/Tiles/Bananas+Plantation
   rotate: false
   xy: 76, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/City center-Modern era
+TileSets/Lazybones Remastered/Tiles/Barringer Crater
   rotate: false
   xy: 4, 15
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/Coast
-  rotate: false
-  xy: 76, 90
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Desert
+TileSets/Lazybones Remastered/Tiles/Camp
   rotate: false
-  xy: 148, 165
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/Desert Hill
-  rotate: false
-  xy: 76, 15
+  xy: 76, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/El Dorado
+TileSets/Lazybones Remastered/Tiles/Cerro de Potosi
   rotate: false
-  xy: 148, 90
+  xy: 148, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Flood plains
+TileSets/Lazybones Remastered/Tiles/Citadel
+  rotate: false
+  xy: 148, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Citrus+Plantation
   rotate: false
   xy: 220, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/ForestG
-  rotate: false
-  xy: 148, 15
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/ForestGH
-  rotate: false
-  xy: 148, 15
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/ForestP
-  rotate: false
-  xy: 148, 15
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/ForestPH
-  rotate: false
-  xy: 148, 15
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/ForestT
+TileSets/Lazybones Remastered/Tiles/City center-Ancient era
   rotate: false
   xy: 220, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/ForestTH
-  rotate: false
-  xy: 220, 79
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/Fountain of Youth
+TileSets/Lazybones Remastered/Tiles/City center-Future era
   rotate: false
   xy: 292, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Grand Mesa
+TileSets/Lazybones Remastered/Tiles/City center-Medieval era
   rotate: false
   xy: 292, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/City center-Modern era
+  rotate: false
+  xy: 364, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Coast
+  rotate: false
+  xy: 76, 15
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Cotton+Plantation
+  rotate: false
+  xy: 364, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Customs house
+  rotate: false
+  xy: 436, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Desert
+  rotate: false
+  xy: 148, 15
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Dyes+Plantation
+  rotate: false
+  xy: 436, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/El Dorado
+  rotate: false
+  xy: 508, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Farm
+  rotate: false
+  xy: 508, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Farm2
+  rotate: false
+  xy: 580, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Fishing Boats
+  rotate: false
+  xy: 580, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Flood plains
+  rotate: false
+  xy: 652, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Forest
+  rotate: false
+  xy: 652, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Forest-Tundra
+  rotate: false
+  xy: 724, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Fort
+  rotate: false
+  xy: 724, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Fountain of Youth
+  rotate: false
+  xy: 796, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Grand Mesa
+  rotate: false
+  xy: 796, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -130,65 +200,79 @@ TileSets/Lazybones Remastered/Tiles/Grassland
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Grassland-Farm
+TileSets/Lazybones Remastered/Tiles/Grassland+Farm
   rotate: false
-  xy: 364, 154
+  xy: 868, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Great Barrier Reef
   rotate: false
-  xy: 364, 79
+  xy: 868, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Hill
   rotate: false
-  xy: 436, 154
+  xy: 940, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Hill-Dry
+  rotate: false
+  xy: 940, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Holy site
+  rotate: false
+  xy: 1012, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Ice
   rotate: false
-  xy: 436, 79
+  xy: 1012, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/JungleG
+TileSets/Lazybones Remastered/Tiles/Incense+Plantation
   rotate: false
-  xy: 508, 154
+  xy: 1084, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/JungleP
+TileSets/Lazybones Remastered/Tiles/Jungle
   rotate: false
-  xy: 508, 154
+  xy: 1084, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Krakatoa
   rotate: false
-  xy: 508, 79
+  xy: 1156, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Krakatoa2
   rotate: false
-  xy: 580, 154
+  xy: 1156, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Krakatoa3
   rotate: false
-  xy: 580, 79
+  xy: 1228, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -200,44 +284,100 @@ TileSets/Lazybones Remastered/Tiles/Lakes
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/Lazybones Remastered/Tiles/Landmark
+  rotate: false
+  xy: 1228, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Lumber mill
+  rotate: false
+  xy: 1300, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Manufactory
+  rotate: false
+  xy: 1300, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Marble+Quarry
+  rotate: false
+  xy: 1372, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
 TileSets/Lazybones Remastered/Tiles/Marsh
   rotate: false
-  xy: 652, 154
+  xy: 1372, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Mine
+  rotate: false
+  xy: 1444, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Mine-Hill-Dry
+  rotate: false
+  xy: 1516, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Mine-Hill-Dry2
+  rotate: false
+  xy: 1516, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Mine2
+  rotate: false
+  xy: 1444, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mount Fuji
   rotate: false
-  xy: 652, 79
+  xy: 1588, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mount Kailash
   rotate: false
-  xy: 724, 154
+  xy: 1588, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mount Sinai
   rotate: false
-  xy: 724, 79
+  xy: 1660, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mountain
   rotate: false
-  xy: 796, 154
+  xy: 1660, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Oasis
   rotate: false
-  xy: 796, 79
+  xy: 1732, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -249,23 +389,44 @@ TileSets/Lazybones Remastered/Tiles/Ocean
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/Lazybones Remastered/Tiles/Offshore Platform
+  rotate: false
+  xy: 1732, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Oil well
+  rotate: false
+  xy: 1804, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
 TileSets/Lazybones Remastered/Tiles/Old Faithful
   rotate: false
-  xy: 868, 154
+  xy: 1804, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Old Faithful2
   rotate: false
-  xy: 868, 79
+  xy: 1876, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Old Faithful3
   rotate: false
-  xy: 940, 154
+  xy: 1876, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Pasture
+  rotate: false
+  xy: 1948, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -277,37 +438,93 @@ TileSets/Lazybones Remastered/Tiles/Plains
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Rock of Gibraltar
+TileSets/Lazybones Remastered/Tiles/Plantation
   rotate: false
-  xy: 940, 79
+  xy: 1948, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Snow
+TileSets/Lazybones Remastered/Tiles/Quarry
   rotate: false
-  xy: 508, 15
-  size: 64, 56
-  orig: 64, 56
+  xy: 508, 4
+  size: 64, 67
+  orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Sri Pada
+TileSets/Lazybones Remastered/Tiles/Rock of Gibraltar
   rotate: false
   xy: 580, 4
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Tundra
+TileSets/Lazybones Remastered/Tiles/Silk+Plantation
   rotate: false
   xy: 652, 4
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
+TileSets/Lazybones Remastered/Tiles/Snow
+  rotate: false
+  xy: 724, 15
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Spices+Plantation
+  rotate: false
+  xy: 796, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Sri Pada
+  rotate: false
+  xy: 868, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Sugar+Plantation
+  rotate: false
+  xy: 940, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Trading post
+  rotate: false
+  xy: 1012, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Tundra
+  rotate: false
+  xy: 1084, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
 TileSets/Lazybones Remastered/Tiles/Uluru
   rotate: false
-  xy: 724, 4
+  xy: 1156, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Wheat
+  rotate: false
+  xy: 1228, 4
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Wheat+Farm
+  rotate: false
+  xy: 1300, 4
   size: 64, 67
   orig: 64, 67
   offset: 0, 0

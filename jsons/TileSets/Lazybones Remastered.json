@@ -2,6 +2,8 @@
     "useColorAsBaseTerrain": "false",
     "fallbackTileSet": "FantasyHex",
     "ruleVariants": {
+		// Lazybones Variants
+		"Grassland+Farm": ["Grassland", "Grassland-Farm"],
 
 		// River pseudo-tile used in Civilopedia display only
 		"Grassland+River": ["Plains","River-BottomLeft","River-Bottom","River-BottomRight"],
@@ -258,7 +260,7 @@
 	"Plains+Hill+Forest+Spices": ["Plains", "Hill","ForestPHUp","Spices","ForestPHLow"],
 
 	//Farm
-	"Grassland+Farm": ["Grassland","FarmG","HutFarm"],
+	//"Grassland+Farm": ["Grassland","FarmG","HutFarm"],
 	"Grassland+Deer+Farm": ["Grassland","FarmG","Deer"],
 	"Grassland+Stone+Farm": ["Grassland","FarmG","Stone"],
 	"Grassland+Iron+Farm": ["Grassland","Iron","FarmG"],

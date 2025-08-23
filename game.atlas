@@ -130,58 +130,65 @@ TileSets/Lazybones Remastered/Tiles/Grassland
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Great Barrier Reef
+TileSets/Lazybones Remastered/Tiles/Grassland-Farm
   rotate: false
   xy: 364, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Hill
+TileSets/Lazybones Remastered/Tiles/Great Barrier Reef
   rotate: false
   xy: 364, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Ice
+TileSets/Lazybones Remastered/Tiles/Hill
   rotate: false
   xy: 436, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
+TileSets/Lazybones Remastered/Tiles/Ice
+  rotate: false
+  xy: 436, 79
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
 TileSets/Lazybones Remastered/Tiles/JungleG
-  rotate: false
-  xy: 436, 79
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/JungleP
-  rotate: false
-  xy: 436, 79
-  size: 64, 67
-  orig: 64, 67
-  offset: 0, 0
-  index: -1
-TileSets/Lazybones Remastered/Tiles/Krakatoa
   rotate: false
   xy: 508, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Krakatoa2
+TileSets/Lazybones Remastered/Tiles/JungleP
+  rotate: false
+  xy: 508, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Krakatoa
   rotate: false
   xy: 508, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
-TileSets/Lazybones Remastered/Tiles/Krakatoa3
+TileSets/Lazybones Remastered/Tiles/Krakatoa2
   rotate: false
   xy: 580, 154
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+TileSets/Lazybones Remastered/Tiles/Krakatoa3
+  rotate: false
+  xy: 580, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -195,42 +202,42 @@ TileSets/Lazybones Remastered/Tiles/Lakes
   index: -1
 TileSets/Lazybones Remastered/Tiles/Marsh
   rotate: false
-  xy: 580, 79
+  xy: 652, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mount Fuji
   rotate: false
-  xy: 652, 154
+  xy: 652, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mount Kailash
   rotate: false
-  xy: 652, 79
+  xy: 724, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mount Sinai
   rotate: false
-  xy: 724, 154
+  xy: 724, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Mountain
   rotate: false
-  xy: 724, 79
+  xy: 796, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Oasis
   rotate: false
-  xy: 796, 154
+  xy: 796, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -244,21 +251,21 @@ TileSets/Lazybones Remastered/Tiles/Ocean
   index: -1
 TileSets/Lazybones Remastered/Tiles/Old Faithful
   rotate: false
-  xy: 796, 79
+  xy: 868, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Old Faithful2
   rotate: false
-  xy: 868, 154
+  xy: 868, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Old Faithful3
   rotate: false
-  xy: 868, 79
+  xy: 940, 154
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -272,7 +279,7 @@ TileSets/Lazybones Remastered/Tiles/Plains
   index: -1
 TileSets/Lazybones Remastered/Tiles/Rock of Gibraltar
   rotate: false
-  xy: 940, 154
+  xy: 940, 79
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
@@ -286,21 +293,21 @@ TileSets/Lazybones Remastered/Tiles/Snow
   index: -1
 TileSets/Lazybones Remastered/Tiles/Sri Pada
   rotate: false
-  xy: 940, 79
+  xy: 580, 4
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Tundra
   rotate: false
-  xy: 580, 4
+  xy: 652, 4
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
   index: -1
 TileSets/Lazybones Remastered/Tiles/Uluru
   rotate: false
-  xy: 652, 4
+  xy: 724, 4
   size: 64, 67
   orig: 64, 67
   offset: 0, 0
